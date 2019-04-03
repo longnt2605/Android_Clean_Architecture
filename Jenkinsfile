@@ -1,7 +1,5 @@
 pipeline {
-  agent {
-    node { label 'android' }
-  }
+  agent any
   stages {
     stage('Lint & Unit Test') {
       parallel {
