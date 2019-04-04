@@ -1,0 +1,9 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/longnguyen/Documents/CleanArchitecture/quality/src/main/AndroidManifest.xml:1:1-35
+INJECTED from /Users/longnguyen/Documents/CleanArchitecture/quality/src/main/AndroidManifest.xml:1:1-35
+INJECTED from /Users/longnguyen/Documents/CleanArchitecture/quality/src/main/AndroidManifest.xml:1:1-35
+	package
+		ADDED from /Users/longnguyen/Documents/CleanArchitecture/quality/src/main/AndroidManifest.xml:1:11-32
+		INJECTED from /Users/longnguyen/Documents/CleanArchitecture/quality/src/main/AndroidManifest.xml
+		INJECTED from /Users/longnguyen/Documents/CleanArchitecture/quality/src/main/AndroidManifest.xml
